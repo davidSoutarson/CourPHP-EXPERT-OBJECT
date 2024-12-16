@@ -1,3 +1,5 @@
-phpinfo();
+<?php
+// teste php
 
-echo 'bonjour';
+echo "Hello, word!";
+?>
